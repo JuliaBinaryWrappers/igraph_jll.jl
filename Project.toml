@@ -1,0 +1,23 @@
+name = "igraph_jll"
+uuid = "4d841945-e0c2-5143-9479-18e4f0102556"
+version = "0.10.15+0"
+
+[deps]
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+libblastrampoline_jll = "8e850b90-86db-534c-a0d3-1478176c7d93"
+Arpack_jll = "68821587-b530-5797-8361-c406ea357684"
+GLPK_jll = "e8aa6df9-e6ca-548a-97ff-1f85fc5b8b98"
+GMP_jll = "781609d7-10c4-51f6-84f2-b8444358ff6d"
+XML2_jll = "02c8fc9c-b97f-50b9-bbe4-9be30ff0a78a"
+CompilerSupportLibraries_jll = "e66e0078-7015-5450-92f7-15fbd957f2ae"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+LLVMOpenMP_jll = "1d63c593-3942-5779-bab2-d838dc0a180e"
+
+[compat]
+JLLWrappers = "1.7.0"
+julia = "1.9"
+libblastrampoline_jll = "5.4"
+GMP_jll = "6.2.1"
+Libdl = "< 0.0.1, 1"
+Artifacts = "< 0.0.1, 1"

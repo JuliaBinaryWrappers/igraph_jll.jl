@@ -1,0 +1,280 @@
+[[igraph]]
+arch = "aarch64"
+git-tree-sha1 = "14441b582a548aea93ce50304c8f013b241572ed"
+os = "macos"
+
+    [[igraph.download]]
+    sha256 = "cf414bf468ddec298293af367866d9639dc3b0029036b324797d6a20a0d9fbd7"
+    url = "https://github.com/JuliaBinaryWrappers/igraph_jll.jl/releases/download/igraph-v0.10.15+0/igraph.v0.10.15.aarch64-apple-darwin.tar.gz"
+[[igraph]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9500398a45d65623ffc21bd9938e2d0df3d08c8a"
+libc = "glibc"
+os = "linux"
+
+    [[igraph.download]]
+    sha256 = "6bfaaa4bd8b114b85092cfd6f96ae841f4d5276658959aa3e403b0adb2de4b89"
+    url = "https://github.com/JuliaBinaryWrappers/igraph_jll.jl/releases/download/igraph-v0.10.15+0/igraph.v0.10.15.aarch64-linux-gnu-cxx03.tar.gz"
+[[igraph]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "919b0a759ae4f3c275d6d9565713b82f9b6040f4"
+libc = "glibc"
+os = "linux"
+
+    [[igraph.download]]
+    sha256 = "39be8419795805ff96004cae1ce1bbe728a49ef553deb54d0cbfdff35ee68c52"
+    url = "https://github.com/JuliaBinaryWrappers/igraph_jll.jl/releases/download/igraph-v0.10.15+0/igraph.v0.10.15.aarch64-linux-gnu-cxx11.tar.gz"
+[[igraph]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "48723722ad1d36d1bf5db76bd11ab8e0c10af1d7"
+libc = "musl"
+os = "linux"
+
+    [[igraph.download]]
+    sha256 = "22634f031534adeff2438b167f8d0d93da13d5dd363db2dd4ee758f0992acfec"
+    url = "https://github.com/JuliaBinaryWrappers/igraph_jll.jl/releases/download/igraph-v0.10.15+0/igraph.v0.10.15.aarch64-linux-musl-cxx03.tar.gz"
+[[igraph]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ded2260147a4df9d1ed9048f9d53e7dce7f862e0"
+libc = "musl"
+os = "linux"
+
+    [[igraph.download]]
+    sha256 = "b04fa644adffab07502552d7fb3e91f028e2a7c5b9b740ee0e1c6e35eb3c0d95"
+    url = "https://github.com/JuliaBinaryWrappers/igraph_jll.jl/releases/download/igraph-v0.10.15+0/igraph.v0.10.15.aarch64-linux-musl-cxx11.tar.gz"
+[[igraph]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "548c4e4af70eb7133cbdfb96c3763f21b0b94190"
+libc = "glibc"
+os = "linux"
+
+    [[igraph.download]]
+    sha256 = "fb128d8ba5e377f79cc07ae3dd6fed67b15c9d864807d0022a9649b1ec2a0b13"
+    url = "https://github.com/JuliaBinaryWrappers/igraph_jll.jl/releases/download/igraph-v0.10.15+0/igraph.v0.10.15.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[igraph]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "544acbc0667916ac43f9e14f568b751b6fb37aa5"
+libc = "glibc"
+os = "linux"
+
+    [[igraph.download]]
+    sha256 = "d0f1f41018b1b658c3cca1ffc87311c454934bb1311918c9c25a56c6bfdc0e53"
+    url = "https://github.com/JuliaBinaryWrappers/igraph_jll.jl/releases/download/igraph-v0.10.15+0/igraph.v0.10.15.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[igraph]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c98ae498731b357b7b1dc348a2706e102a05ba88"
+libc = "musl"
+os = "linux"
+
+    [[igraph.download]]
+    sha256 = "a76ecece03c131c7dc0fbbf606815a62c2da4aa5a90b11bf7fe3305ea5736ce5"
+    url = "https://github.com/JuliaBinaryWrappers/igraph_jll.jl/releases/download/igraph-v0.10.15+0/igraph.v0.10.15.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[igraph]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "cfe6b7d4cd69feb613cec1d55d82089b60c3dabd"
+libc = "musl"
+os = "linux"
+
+    [[igraph.download]]
+    sha256 = "ca5d1721e04ff6845764039a85fe4913d825e23b0a46873d22a5db3f2dbfb901"
+    url = "https://github.com/JuliaBinaryWrappers/igraph_jll.jl/releases/download/igraph-v0.10.15+0/igraph.v0.10.15.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[igraph]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "cb3ddb63876b448bd54752b1ed77cde0c9af7d61"
+libc = "glibc"
+os = "linux"
+
+    [[igraph.download]]
+    sha256 = "3712506b055870d42bca290e29bb57034da1b0cf0f233e320da547c47cf54212"
+    url = "https://github.com/JuliaBinaryWrappers/igraph_jll.jl/releases/download/igraph-v0.10.15+0/igraph.v0.10.15.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[igraph]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fe2102c84c56905170e4fdf72a5158696ffbe426"
+libc = "glibc"
+os = "linux"
+
+    [[igraph.download]]
+    sha256 = "2ac26aafdaa05963071fb6bd3347c4610a835771e3d3692c8653245d67f3b489"
+    url = "https://github.com/JuliaBinaryWrappers/igraph_jll.jl/releases/download/igraph-v0.10.15+0/igraph.v0.10.15.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[igraph]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6026cea817c037b56a0412c5fa17890d71e4385b"
+libc = "musl"
+os = "linux"
+
+    [[igraph.download]]
+    sha256 = "6a7b2b70eedd99b038c630e00c786aeead1b4884e672034be8a2d53f31d7dbae"
+    url = "https://github.com/JuliaBinaryWrappers/igraph_jll.jl/releases/download/igraph-v0.10.15+0/igraph.v0.10.15.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[igraph]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e064b8cc64473e83d0639082e468cde044e33210"
+libc = "musl"
+os = "linux"
+
+    [[igraph.download]]
+    sha256 = "126cb7ff52276c45405f5496cb82a84c1af8842d47b2ead18c91a41ed1e3bf72"
+    url = "https://github.com/JuliaBinaryWrappers/igraph_jll.jl/releases/download/igraph-v0.10.15+0/igraph.v0.10.15.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[igraph]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "64bc743d6ae868a661b32bb8df885a424611d68f"
+libc = "glibc"
+os = "linux"
+
+    [[igraph.download]]
+    sha256 = "681afe17543c96c324ddaa3aa9777f90f0e260f5aff8572135dded65be9e8229"
+    url = "https://github.com/JuliaBinaryWrappers/igraph_jll.jl/releases/download/igraph-v0.10.15+0/igraph.v0.10.15.i686-linux-gnu-cxx03.tar.gz"
+[[igraph]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8202c0a3dbe3de4fe33599f4f04e17873ffb206e"
+libc = "glibc"
+os = "linux"
+
+    [[igraph.download]]
+    sha256 = "e10580582d877be61cfa9578eabd6ca028ebccd372ec188a7b51100d8e4c1995"
+    url = "https://github.com/JuliaBinaryWrappers/igraph_jll.jl/releases/download/igraph-v0.10.15+0/igraph.v0.10.15.i686-linux-gnu-cxx11.tar.gz"
+[[igraph]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "95cfe0007e35f2a4f11fe8f80782a97fffb38df1"
+libc = "musl"
+os = "linux"
+
+    [[igraph.download]]
+    sha256 = "a9a23de295c48464e403e2a1884ecea729945c72f7764a6b177e1bb933a3f691"
+    url = "https://github.com/JuliaBinaryWrappers/igraph_jll.jl/releases/download/igraph-v0.10.15+0/igraph.v0.10.15.i686-linux-musl-cxx03.tar.gz"
+[[igraph]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "cf07df234baea8a1f80b648fe12a571d618319ce"
+libc = "musl"
+os = "linux"
+
+    [[igraph.download]]
+    sha256 = "57099be1635198ccb2bcdb782152ecf0180aa081a98c2575f7948aff10b69f20"
+    url = "https://github.com/JuliaBinaryWrappers/igraph_jll.jl/releases/download/igraph-v0.10.15+0/igraph.v0.10.15.i686-linux-musl-cxx11.tar.gz"
+[[igraph]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0974d06ceddda568dcccb51355540dbcc1d8a5f3"
+os = "windows"
+
+    [[igraph.download]]
+    sha256 = "bd370510110599aede9b8cc6485019287b6f59ca070a36a75c7a29ee82be5825"
+    url = "https://github.com/JuliaBinaryWrappers/igraph_jll.jl/releases/download/igraph-v0.10.15+0/igraph.v0.10.15.i686-w64-mingw32-cxx03.tar.gz"
+[[igraph]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "15a125fe4de3a9c70d0489173d3d0e4d8d34ae23"
+os = "windows"
+
+    [[igraph.download]]
+    sha256 = "c76176233b03b41dd0ce5a839b351a5b98965450963561439c24a4e710a1651f"
+    url = "https://github.com/JuliaBinaryWrappers/igraph_jll.jl/releases/download/igraph-v0.10.15+0/igraph.v0.10.15.i686-w64-mingw32-cxx11.tar.gz"
+[[igraph]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b6ec9cb675a0cce9e1b9605bb1f0affb63f9a59a"
+libc = "glibc"
+os = "linux"
+
+    [[igraph.download]]
+    sha256 = "49e8c9ca26735a4bb0098a105e2425c8014574d08dbaf59f784b32179bfd8604"
+    url = "https://github.com/JuliaBinaryWrappers/igraph_jll.jl/releases/download/igraph-v0.10.15+0/igraph.v0.10.15.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[igraph]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f193bda30398af508d57c4e5b6ad4802fec73766"
+libc = "glibc"
+os = "linux"
+
+    [[igraph.download]]
+    sha256 = "79b3769d6c9e078710694ac1567b934953b66fdcbbb43ff65eb59d95161e144c"
+    url = "https://github.com/JuliaBinaryWrappers/igraph_jll.jl/releases/download/igraph-v0.10.15+0/igraph.v0.10.15.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[igraph]]
+arch = "x86_64"
+git-tree-sha1 = "f3050d4f965a53bdb3ce7fa7334a94584c73df8d"
+os = "macos"
+
+    [[igraph.download]]
+    sha256 = "b55c61f219b7a26d782db230a9c8ce623d7ac56f0f09d2931d9874bdbd0837fe"
+    url = "https://github.com/JuliaBinaryWrappers/igraph_jll.jl/releases/download/igraph-v0.10.15+0/igraph.v0.10.15.x86_64-apple-darwin.tar.gz"
+[[igraph]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "66cae66810f88fd5c700814b6007e7a6dfdad0d2"
+libc = "glibc"
+os = "linux"
+
+    [[igraph.download]]
+    sha256 = "585b30dd8d27dc34d2cf0ab186da3f3bc90fc782ff484563540f8d2e888d4dac"
+    url = "https://github.com/JuliaBinaryWrappers/igraph_jll.jl/releases/download/igraph-v0.10.15+0/igraph.v0.10.15.x86_64-linux-gnu-cxx03.tar.gz"
+[[igraph]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d7abc8767e8a099d5939fead030cd46916c2c387"
+libc = "glibc"
+os = "linux"
+
+    [[igraph.download]]
+    sha256 = "71eb987585cdd1ef6775418c05be7010928e91792b52213c5161c6924ca05d46"
+    url = "https://github.com/JuliaBinaryWrappers/igraph_jll.jl/releases/download/igraph-v0.10.15+0/igraph.v0.10.15.x86_64-linux-gnu-cxx11.tar.gz"
+[[igraph]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "80bf09b2128da63cd9793ed4361b2b5da0d36b27"
+libc = "musl"
+os = "linux"
+
+    [[igraph.download]]
+    sha256 = "075f2f88891cc537d89cf9422b132769a502308aa83964eacc05fa01dfe134b4"
+    url = "https://github.com/JuliaBinaryWrappers/igraph_jll.jl/releases/download/igraph-v0.10.15+0/igraph.v0.10.15.x86_64-linux-musl-cxx03.tar.gz"
+[[igraph]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e2241e7ea46276a48a1a961b6187a81137ee9af4"
+libc = "musl"
+os = "linux"
+
+    [[igraph.download]]
+    sha256 = "6590ac344f21fd42bdd93c7eb44a4e81e472e452ec49d4878bc26581c5c969b7"
+    url = "https://github.com/JuliaBinaryWrappers/igraph_jll.jl/releases/download/igraph-v0.10.15+0/igraph.v0.10.15.x86_64-linux-musl-cxx11.tar.gz"
+[[igraph]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "301d3976e1146c6270fdb15ef1340478661a2505"
+os = "windows"
+
+    [[igraph.download]]
+    sha256 = "c9177a37b89bc020b1d940889a6216f08b81dbfe6a42e29278cb2b75bc3d3779"
+    url = "https://github.com/JuliaBinaryWrappers/igraph_jll.jl/releases/download/igraph-v0.10.15+0/igraph.v0.10.15.x86_64-w64-mingw32-cxx03.tar.gz"
+[[igraph]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b794086231533f32f8736fe50979f64536f5009e"
+os = "windows"
+
+    [[igraph.download]]
+    sha256 = "f2ae7875003fd728fb828dc2bdb239e4e9e6e4465eecf3014bd577603dd1aadd"
+    url = "https://github.com/JuliaBinaryWrappers/igraph_jll.jl/releases/download/igraph-v0.10.15+0/igraph.v0.10.15.x86_64-w64-mingw32-cxx11.tar.gz"
